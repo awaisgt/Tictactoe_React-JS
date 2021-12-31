@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+  padding-bottom: 5px;
+
+}
+
+body{
+  background-color: #EEEEEE;
+  color:#000D6B;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.centerbtn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  margin: auto;
+  width: 10%;
+  border: 3px solid #32E0C4;
+  background-color: #32E0C4;
+  color:white;
+  font-size: medium;
+  font-weight: bold;
+
+}
+
+
+.btndiv{
+  padding-bottom: 20px;
+}
+.maindiv{
+  padding-top: 10%;
+}
+.flex-container {
+margin: auto;
+width: 50%;
+display: flex;
+
+flex-wrap: nowrap;
+background-color: white;
+}
+
+.full {
+  height:100%;
+  width:100%;
+}
+
+.flex-container > div {
+  color:white;
+background-color: #000D6B;
+width: 100%;
+margin: 0.5px;
+border-style : solid;
+border: 3px solid #7900FF;
+text-align: center;
+line-height: 140px;
+font-size: 30px;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .flex-container > div {
+    color:white;
+  background-color: #000D6B;
+  width: 100%;
+  margin: 0.5px;
+  border-style : solid;
+  border: 3px solid #7900FF;
+  text-align: center;
+  line-height: 100px;
+  font-size: 30px;
+  
+  }
+
+  .flex-container {
+    margin: auto;
+    width: 98%;
+    display: flex;
+    
+    flex-wrap: nowrap;
+    background-color: white;
+    
+    }
+    .centerbtn{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 50px;
+      margin: auto;
+      width: 45%;
+      border: 3px solid #32E0C4;
+      background-color: #32E0C4;
+      color:white;
+      font-size: medium;
+      font-weight: bold;
+    
+    }
+    .maindiv{
+      padding-top: 25%;
+    }
+    .App {
+      text-align: center;
+      padding-bottom: 0px;
+    
+    }
+    
+}
