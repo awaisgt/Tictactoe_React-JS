@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Tictactoe_React-JS/static/css/main.598c787e.css",
+    "main.js": "/Tictactoe_React-JS/static/js/main.e9cb7118.js",
+    "static/js/787.855d930d.chunk.js": "/Tictactoe_React-JS/static/js/787.855d930d.chunk.js",
+    "static/media/lampon.png": "/Tictactoe_React-JS/static/media/lampon.5dc833a934888f2a204f.png",
+    "static/media/logo.svg": "/Tictactoe_React-JS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tictactoe_React-JS/index.html",
+    "main.598c787e.css.map": "/Tictactoe_React-JS/static/css/main.598c787e.css.map",
+    "main.e9cb7118.js.map": "/Tictactoe_React-JS/static/js/main.e9cb7118.js.map",
+    "787.855d930d.chunk.js.map": "/Tictactoe_React-JS/static/js/787.855d930d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598c787e.css",
+    "static/js/main.e9cb7118.js"
+  ]
+}
